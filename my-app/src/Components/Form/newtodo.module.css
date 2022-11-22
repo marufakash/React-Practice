@@ -1,0 +1,32 @@
+.form{
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #333;
+}
+.form div{
+    margin: 10px 0;
+    display: flex;
+}
+.form label {
+    width: 30%;
+}
+.form input,textarea{
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 17px;
+}
+.form button{
+    width: 100%;
+    border: none;
+    padding: 5px;
+    font-size: 17px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: orange;
+}

@@ -1,0 +1,36 @@
+
+.h1{
+    color: rgb(65, 16, 16);
+    font-weight: 500;
+    padding: 20px;
+    background-color: beige;
+    text-align: center;
+}
+.container p{
+    padding: 20px 5px;
+}
+.container h3{
+    padding: 0 10px;
+    color: rgb(51, 12, 12);
+}
+.nav{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+.link{
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+}
+.container button{
+    cursor: pointer;
+    border: none;
+    font-size: 18px;
+    border-radius: 5px;
+    color: white;
+    background-color: #333;
+    margin: 5px;
+    padding: 8px 16px;
+}

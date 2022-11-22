@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title" : "Learn with submit",
+        "name" : "What is API with an example?",
+        "des" : "An application programming interface is a way for two or more computer programs to communicate with each other. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification."
+    },
+    {
+        "id" : 2,
+        "title" : "Learning point",
+        "name" : "What is Data Structure & Algorithm?",
+        "des" : "DSA stands for Data Structures and Algorithms. It is also sometimes referred to as PSDS - Problem Solving Data Structures. DSA is applied in problem-solving and enables developers to learn to write efficient code. The quality of the code can be judged by how much memory and time it consumes."
+    },
+    {
+        "id" : 3,
+        "title" : "Learn with example",
+        "name" : "What is Computer Networking?",
+        "des" : "Computer networking refers to interconnected computing devices that can exchange data and share resources with each other. These networked devices use a system of rules, called communications protocols, to transmit information over physical or wireless technologies."
+    },
+    {
+        "id" : 4,
+        "title" : "Programming is Easy",
+        "name" : "What is programming in computer science?",
+        "des" : "Computer programming is the process of performing a particular computation, usually by designing and building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms."
+    }
+]
